@@ -1,0 +1,25 @@
+[
+{
+"userName":"Prajwal",
+"userEmail":"prajwal@demo.com",
+"password":"Admin",
+"fName":"Prajwal",
+"lName":"Zalaki",
+"add":"Bengaluru",
+"userState":"Karnataka",
+"userCity":"Bengaluru",
+"code":"560021",
+"userNumber":"9876543211",
+"inValidEmail" : "prajwal123@demo.com",
+"inValidPassword" : "admin@123",
+"Subject":"Great website",
+"Message":"Gained experience through this website.Thankyou.",
+"cardName" : "Prajwal",
+"cardNumber" : "343435262722",
+"cvv" : "333",
+"expMonth" : "08",
+"expYear" : "2080",
+"validEmail" : "prajwal@demo.com",
+"validPassword" : "Admin"
+}
+]
